@@ -1,0 +1,29 @@
+.container{
+  width: 700px;
+}
+#inputMesa{
+  width: 200px;
+}
+#inputCantidad{
+  width: 200px;
+}
+#divProductos{
+  font-size: 100%;
+}
+.oculto{
+  display: none;
+}
+.elementosPedido{
+  margin-bottom: 10px;
+}
+#tablaProductos th{
+  border: 1px solid grey;
+  padding: 5px;
+}
+#divProductos{
+  width: 400px;
+}
+.imagenProductos{
+  width: 150px;
+  height: 120px;
+}

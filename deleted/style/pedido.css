@@ -1,0 +1,27 @@
+.container{
+  position: absolute;
+  left: 100px;
+  width: 1000px;
+}
+#divNavMesero{
+  width: 1000px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+  padding-left: 340px;
+  background-color: #292B2C;
+}
+.container #divOrden{
+  width: 30%;
+  float: left;
+}
+.container #divProductos{
+  width: 70%;
+  float: left;
+  border-left: 1px solid #ddd;
+  padding-left: 20px;
+}
+.container #divProductos .imgProductos{
+  width: 200px;
+  height: 160px;
+}

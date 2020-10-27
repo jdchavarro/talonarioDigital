@@ -1,0 +1,30 @@
+.container{
+  text-align: center;
+  margin-top: 50px;
+  width: 1200px;
+  border: 1px solid black;
+}
+.container .table{
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+}
+.container .delivery{
+  width: 120px;
+  height: 100px;
+  margin: 10px;
+}
+.container table{
+  margin: 0px auto;
+}
+.container table th{
+  text-align: center;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+.container table td{
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
